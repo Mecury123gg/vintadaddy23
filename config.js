@@ -7,8 +7,8 @@
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2348106692740']
-global.ownMain = '2348106692740'
+global.owner = ['23481073248740']
+global.ownMain = '234834845450'
 global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //gausah diganti
 global.sessionName = 'session'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
@@ -20,9 +20,9 @@ global.apikey = 'ptla_F9N0OMtFjU0fbiO04EJiPUcw3XaPgMUmJZA6cAk3zt8' // Isi Apikey
 global.capikey = 'ptlc_4SNLfuJidXDSWPx1LeIdY3TrFrcTaUcWqcJ92uORpTV' // Isi Apikey Pltc Lu
 global.eggsnya = '15' // id eggs yang dipakai
 global.location = '1' // id location
-global.url1 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //gausah diganti
-global.url2 = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e' //gausah diganti
-global.linkgc = 'https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e'
+global.url1 = 'https://whatsapp.com/channel/0029Vaa567567KZDuwe5SI3e' //gausah diganti
+global.url2 = 'https://whatsapp.com/channel/0029Va5657560LKZDuwe5SI3e' //gausah diganti
+global.linkgc = 'https://whatsapp.com/channel/07567475676765KZDuwe5SI3e'
 global.delayjpm = 3500
 
 global.mess = { // Custom Sesuka Lu
