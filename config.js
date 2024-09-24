@@ -1,14 +1,14 @@
 /*
 
 # Base By Devorsixcore
-# Owner ? : t.me/imdevorsix
+# Owner ? : t.me/imdev
 !- do not delete this credit
 
 */
 
 global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2347086306743']
-global.ownMain = '2347086306743'
+global.owner = ['2348106692740']
+global.ownMain = '2348106692740'
 global.NamaOwner = '𝕶𝖎𝖓𝖌 𝕾𝖆𝖒' //gausah diganti
 global.sessionName = 'session'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
